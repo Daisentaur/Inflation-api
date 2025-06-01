@@ -1,0 +1,14 @@
+# Ignore virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+
+# CSV output or temporary files
+*.csv
