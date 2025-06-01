@@ -9,6 +9,3 @@ __pycache__/
 
 # OS files
 .DS_Store
-
-# CSV output or temporary files
-*.csv
