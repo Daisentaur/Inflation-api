@@ -30,7 +30,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("Product Price Tracker")
+st.title(" InMemoryOff% ")
 st.write("A simple interface for the Product API")
 
 # Navigation
