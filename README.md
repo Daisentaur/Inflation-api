@@ -38,7 +38,7 @@ The app uses:
 
 All search requests are handled with `GET`, and create/delete operations use `POST` with appropriate validation.
 
-## 💡 Tip (Important)
+## Tip (Important)
 
 > If you're testing API endpoints using Postman, **ensure your requests have the proper `Content-Type` header (`application/json`)** and a valid body. Also, note that sending invalid JSON or missing headers often leads to confusing 500 errors — always check for the correct format first.
 
