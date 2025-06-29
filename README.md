@@ -2,10 +2,14 @@
 
 A simple yet effective Flask + Streamlit web app to track product prices over the years. Designed for clarity, speed, and local usability, **InMemoryOff%** uses a CSV file to keep product-year-price data easily accessible and editable.
 
-UPDATES COMING SOON 
-You Gemini integration along with web scraping for better mroe crowd source data. Smart searches also added
-
 Currently sample data with randomly filled values is used in the csv file, but this can be integrated with a real data source of this kind without any changes.
+
+
+
+UPDATES COMING SOON 
+Gemini integration along with web scraping for better more crowd source data. Smart searches also added.
+
+
 
 This is a prototype, i might work on the UI and some more features if i think of any in the future
 
